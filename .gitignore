@@ -1,0 +1,20 @@
+# Untracked files:
+
+*.java~
+*.class
+*.*~
+
+### Eclipse ###
+
+.metadata
+bin/
+target/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
